@@ -20,6 +20,7 @@
 - trailingComma: 控制是否在对象和数组字面量的最后一个元素后添加尾逗号。可选值为 "es5"、"none" 和 "all"，这里是 "es5"，表示只在 ES5 中需要添加尾逗号。
 - useTabs: 是否使用 tab 缩进，这里是 false，表示不使用 tab 缩进。
 - vueIndentScriptAndStyle: 是否缩进 Vue 文件中的 script 和 style 标签，这里是 false，表示不缩进。
+- overrides: 覆盖特定文件类型的格式化设置。这里添加了扩展名为 ".wxml" 的文件，使用 HTML 解析器进行格式化。
 
 ## Thanks
 
