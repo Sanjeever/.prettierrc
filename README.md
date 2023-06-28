@@ -2,6 +2,8 @@
 
 My personal Prettier config.
 
+<a href="https://www.npmjs.com/package/@sanjeever/prettier-config"><img src="https://img.shields.io/npm/v/@sanjeever/prettier-config.svg?sanitize=true" alt="Version"></a>
+
 View on [npmjs](https://www.npmjs.com/package/@sanjeever/prettier-config)
 
 ## Usage
