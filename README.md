@@ -2,6 +2,8 @@
 
 My personal Prettier config.
 
+View on [npmjs](https://www.npmjs.com/package/@sanjeever/prettier-config)
+
 ## Usage
 
 **Install**:
