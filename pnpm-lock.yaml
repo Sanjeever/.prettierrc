@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@sanjeever/prettier-config': ^1.0.0
+
+dependencies:
+  '@sanjeever/prettier-config': 1.0.0
+
+packages:
+
+  /@sanjeever/prettier-config/1.0.0:
+    resolution: {integrity: sha512-yuSGIsLmNKdbOHwSgnmOmnldfWv1fP3KE8LEe3+gu89LhBFfJrfQ/qt0bTsGI5JhJoEmXXxPJ1ou26DgWnud0g==}
+    dev: false

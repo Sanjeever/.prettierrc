@@ -1,6 +1,33 @@
-## .prettierrc
+# @sanjeever/prettier-config
 
-**我的 Prettier 配置**
+My personal Prettier config.
+
+## Usage
+
+**Install**:
+
+```bash
+yarn add --dev @sanjeever/prettier-config
+```
+
+**Edit `package.json`**:
+
+```json
+{
+  // ...
+  "prettier": "@sanjeever/prettier-config"
+}
+```
+
+or
+
+**Edit `.prettierrc`**
+
+```json
+"@sanjeever/prettier-config"
+```
+
+## Intro
 
 - arrowParens: 箭头函数的参数是否带括号。可选值为 "avoid" 和 "always"，这里是 "avoid"，表示只有当参数超过一个时才带括号。
 - bracketSameLine: 是否在数组和对象字面量的括号前放置空格，这里是 true，表示放置空格。

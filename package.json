@@ -1,0 +1,12 @@
+{
+  "name": "@sanjeever/prettier-config",
+  "publishConfig": {
+    "access": "public"
+  },
+  "version": "1.0.0",
+  "description": "My prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:Sanjeever/.prettierrc.git",
+  "author": "Sanjeever",
+  "license": "MIT"
+}
